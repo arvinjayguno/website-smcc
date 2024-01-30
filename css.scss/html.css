@@ -1,0 +1,86 @@
+.smcc{
+background-color: navy;
+color: white; text-align: center;
+}
+
+a{
+text-decoration: none;
+text-align: left;
+font: bold;
+
+border-color: navy;
+font-size: x-large;
+color: navy;
+background-color: white;
+}
+.p1{
+
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: whitesmoke;
+font-size: x-large;
+text-align: center;
+}
+ .div1{
+
+    background-color: navy;
+ }
+
+.h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+}
+td{
+    text-align: center;
+}
+.tab1,button,a{
+    background-color: navy;
+    color: whitesmoke;
+}
+.div2,.div3{
+
+    background-color: navy;
+    color: whitesmoke;
+}
+body{
+    background-color: yellow;
+}
+#Services{
+ color:white;
+    background-color: navy;
+}
+header
+{
+
+    background-image: url('../logo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    width: 100%;
+
+}
+.con{
+    text-align: center;
+    color: white;
+    background-color: black
+}
+
+hr{
+    width: 150px;
+    color: black
+    ;
+}
+tfoot{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    background-color: black
+
+}
+.cont{
+    background-color: yellow;
+    color: navy;
+    font-size: small;
+}
